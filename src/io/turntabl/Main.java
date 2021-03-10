@@ -26,6 +26,13 @@ public class Main {
 
         user1.send("Hello Kalyssa", "2");
         user2.send("Hey buddy", "1");
+        user2.send("Are we still on the Demo?", "1");
+        user1.send("Yh Still Going", "2");
+        user3.send("We should be getting ready to end the demo ryt", "1");
+        user4.send("We got it", "1");
+        user1.send("Yh", "1");
+        user1.send("Yh Still Going", "1");
+
 
     }
 
